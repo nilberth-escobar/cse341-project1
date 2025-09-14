@@ -5,7 +5,7 @@
     "description": "API for managing contact information",
     "version": "1.0.0"
   },
-  "host": "cs3-341-project1.onrender.com",
+  "host": "cse341-project1-users.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
